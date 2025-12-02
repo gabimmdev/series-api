@@ -1,8 +1,7 @@
-# 📺 API de Cadastro de Séries – Exame FIAP Java Advanced
-
-Esta API foi desenvolvida para o Exame de Java Advanced, seguindo todos os requisitos da prova.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6F27E3&size=35&center=true&vCenter=true&width=1000&lines=+API+-+Cadastro+de+Séries+)](https://git.io/typing-svg)
 
 ## 🚀 Tecnologias utilizadas
+- Java
 - Spring Boot 3
 - Spring Web
 - Spring Data JPA
